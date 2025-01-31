@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const token = '7833060237:AAGYt8nKFRLHXi2DoTTePcEJVcDabcR-P3s'
 const id = '1784606556'
-const address = 'https://mu-d0o2.onrender.com'
+const address = 'https://mu-d0o2.onrender.com/'
 
 const app = express();
 const appServer = http.createServer(app);
